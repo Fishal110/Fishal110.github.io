@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('template1.jpeg');
+    font-family: Courier;
+    font-size: 10px;
+    background-position: center;
+}
+.container{
+    background-color: black;
+    width: 900px;
+    text-align: center;
+    margin-left: ;
+    margin-right: ;
+    font-family: Times New Roman;
+    text-transform: capitalize;
+    margin-top: 50px;
+    color: lightblue;
+    opacity: 70%;
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px;
+}
+.link li {
+    display: inline-block;
+    padding: 5px;
+}
+.link li a{
+    text-decoration: none;
+    color: #FF8E00;
+    font-family: Arial;
+}
+.link li a:hover{
+    background-color: #0044FF;
+    color: #FFFFFF;
+    font-size: 15px;
+}
+.sepeda .foto{
+    width: 900px;
+    border-top: 5px solid #FF8E00;
+    border-bottom: 5px solid #FFFFFF;
+    
+}
+.sepeda .foto:hover{
+    width: 950px;
+    box-shadow: -7px 9px 45px -13px lightblue;
+    margin-right: 50px;
+}
+div{
+    margin: auto;
+    list-style-type: none;
+    
+}
+.artikel{
+    background-color: black;
+    text-align: left;
+    width: 900px;
+    margin-left: ;
+    margin-right: ;
+    overflow: scroll;
+    opacity: 70%;
+    text-transform: 100%;
+    border-bottom: 5px solid #FFFFFF;
+    
+}
+.artikel:hover{
+    width: 950px;
+    box-shadow: -7px 9px 45px -13px lightblue;
+    color: lightblue;
+    font-size: 15px;
+}
+.artikel .sketsa{
+    height: 500px;
+    text-align: center;
+    
+}
+.artikel ul li{
+    text-decoration: none;
+}
+.sepeda #home{
+    margin-left: 40px;
+}
+ul li{
+    list-style-type: none;
+}
+.gambar-gambar #gambar .foto1{
+    width: 900px;
+    border-top: 5px solid #FF0018;
+    border-bottom: 5px solid #0088FF;
+}
+.contactc{
+    background-color: black;
+    text-align: left;
+    width: 900px;
+    margin-left: ;
+    margin-right: ;
+    overflow: scroll;
+    opacity: 70%;
+    text-transform: 100%;
+    border: 5px solid #FFFFFF;
+    
+}
+div{
+    color: #FFFFFF;
+    overflow: scroll;
+}
+
+}
+.kotak1{
+    opacity: 100%;
+    margin: auto;
+    width: 900px;
+}
+.kotak1 .sketsa{
+    height: 500px;
+    margin-left: 45px;
+    border: 5px solid #FFFFFF;
+}
+.kotak1 .sketsa:hover{
+    height: 600px;
+    box-shadow: -7px 9px 45px -13px lightblue;
+}
+.paragraf{
+    background-color: black;
+    text-align: left;
+    width: 900px;
+    margin-left: ;
+    margin-right: ;
+    overflow: scroll;
+    opacity: 70%;
+    text-transform: 100%;
+    border-top: 5px solid #FFFFFF;
+    border-bottom: 5px solid #FFFFFF;
+}
+.paragraf:hover{
+    width: 950px;
+    box-shadow: -7px 9px 45px -13px lightblue;
+    color: lightblue;
+    font-size: 15px;
+}
+.gambar2 .foto1{
+    width: 900px;
+    border-top: 5px solid #FFFFFF;
+    border: 5px solid #FFFFFF;
+    margin-left: 40px;
+}
+.gambar2 .foto1:hover{
+    width: 950px;
+    box-shadow: -7px 9px 45px -13px lightblue;
+}
+.contactc p{
+    border-bottom: 3px solid red;
+    font-family: Arial;
+    font-size: 5px;
+    text-align: center;
+}
+.contactc p:hover{
+    box-shadow: -7px 9px 45px -13px lightblue;
+    color: lightblue;
+    font-size: 15px;
+}
